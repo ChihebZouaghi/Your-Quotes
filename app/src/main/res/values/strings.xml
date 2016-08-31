@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Your Quotes</string>
+    <string name="action_settings">about</string>
+    <string name="other_share_option_title">Share options</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="share_text">Share The Quote</string>
+    <string name="about_text">
+        Version : 1.0 Beta \n\nIt\'s a simple version of test.\nA lot of features will be added sooner.\nWe\'ll be glad
+        if you have some suggestions to help us imporve the application.
+    </string>
+
+
+</resources>
